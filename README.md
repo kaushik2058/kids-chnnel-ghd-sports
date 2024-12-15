@@ -59,4 +59,5 @@ http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:2
 http://starshare.live:8080/live/3569087360/6542246996/147746.ts
 
 EXTINF:-1 group-title=""tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle book
+
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8

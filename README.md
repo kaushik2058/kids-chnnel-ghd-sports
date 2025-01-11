@@ -23,10 +23,10 @@ https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
 https://fifabangladesh.live/VHOD/go.php?id=Nick_Junior_voot_MOB
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Bangla 
-https://playyonogames.in/live.php?id=1345&extension=.m3u8|Referer=https://playyonogames.in//&key=Smartflix_tv
+https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Hindi 
-http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=15834&deviceMac=00:1A:79:40:26:09
+https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo 
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8

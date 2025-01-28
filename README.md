@@ -64,3 +64,21 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title=""tvg-logo="https://i.ibb.co/74FrP8C/images-14.jpg",MINIMAX
 https://livetranscode.com/Minimax/index.m3u8
 
+#EXTINF:-1 channel-id="samsung-KR120000391" tvg-id="KR120000391" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR120000391_20241113T015747SQUARE.png" group-title="어린이" tvg-chno="530",Kids time
+https://jmp2.uk/sam-KR120000391.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN25000020M" tvg-id="IN25000020M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20241024T054036SQUARE.png" group-title="Kids" tvg-chno="1264",The Jungle Book
+https://jmp2.uk/sam-IN25000020M.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN4600007TC" tvg-id="IN4600007TC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png" group-title="Kids" tvg-chno="1265",Hooray Rhymes
+https://jmp2.uk/sam-IN4600007TC.m3u8
+#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" group-title="Movies" tvg-chno="1265",MyTime Movie Network
+https://jmp2.uk/sam-USBC3900018K6.m3u8
+#EXTINF:-1 channel-id="samsung-IN2500003JW" tvg-id="IN2500003JW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png" group-title="Kids" tvg-chno="1266",Powerkids Kartoon Channel
+https://jmp2.uk/sam-IN2500003JW.m3u8
+#EXTINF:-1 channel-id="samsung-INBD47000042I" tvg-id="INBD47000042I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png" group-title="Kids" tvg-chno="1267",The Q Kahaniyan
+https://jmp2.uk/sam-INBD47000042I.m3u8
+#EXTINF:-1 channel-id="samsung-IN4600008T4" tvg-id="IN4600008T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png" group-title="Kids" tvg-chno="1268",KidDo MATIX
+https://jmp2.uk/sam-IN4600008T4.m3u8
+#EXTINF:-1 channel-id="samsung-INBA4900026FJ" tvg-id="INBA4900026FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png" group-title="Kids" tvg-chno="1269",Toon Goggles
+https://jmp2.uk/sam-INBA4900026FJ.m3u8

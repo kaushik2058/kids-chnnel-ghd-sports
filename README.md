@@ -64,3 +64,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title=""tvg-logo="https://i.ibb.co/74FrP8C/images-14.jpg",MINIMAX
 https://livetranscode.com/Minimax/index.m3u8
 
+#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV
+https://jmp2.uk/sam-USBA3000158L.m3u8
+#EXTINF:-1 channel-id="samsung-US4500002UB" tvg-id="US4500002UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20241210T231515SQUARE.png" group-title="" tvg-chno="3612",Mattel Jr.
+https://jmp2.uk/sam-US4500002UB.m3u8

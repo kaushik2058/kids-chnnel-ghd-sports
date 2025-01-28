@@ -13,15 +13,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:2
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/rmyFqStN/5b17a33c349cb9bf7dd7976f38a9b754.png",Disney
 http://extraott.com/live/3586573392/7591141273/187052.m3u8
 
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick Bangla
-https://playyonogames.in/live.php?id=1341&extension=.m3u8|Referer=https://playyonogames.in//&key=Smartflix_tv
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick hindi 
-https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/MGZ5hPFy/7aa3ede3a9a05d6d9009b34ed0f914d0.png",Nick janey 
-https://fifabangladesh.live/VHOD/go.php?id=Nick_Junior_voot_MOB
-
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Bangla 
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 
@@ -34,35 +25,14 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/x15hJzr3/699391a2c013c54b4266bde15e2cb99c.png",Hangama 
 http://xtv.ooo:8080/live/874246786/743567899/150480.m3u8
 
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow Kidz Acton 
-http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=7084&deviceMac=00:1A:79:99:1F:A8
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/3JB9JB7v/8c8e171d3c2ec1f3dc1322d3aabb97ee.png",Discovery Kids Hindi
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/NfYd6jkJ/8aff3a1f9fb17dc659828c0123c147f5.png",Wow kidz
-http://opplex.tv:8080/live/488197/435900/315401.ts
-
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/59m8w2Gc/04e7f0f5247e839b8e1b711aa2ab614a.png",boomerang
 http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=7045&deviceMac=00:1A:79:0A:3B:36
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/mkK9bshs/d12735ba965e0ba65f62a7205e8309d4.png",Nick hd
-https://fifabangladesh.live/VHOD/go.php?id=Nick_HD_Plus_voot_MOB
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wTvVkqDw/eaa953b7d299307a068cedc0a2e878d1.png",Shiva
-http://xtv.ooo:8080/live/98267/02727/342074.ts
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/wMHSDkdM/3bcda4f46f5c316e029333e212191dfc.png",Disney junior
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=15834&deviceMac=00:1A:79:40:26:09
 
-#EXTINF:-1 group-title=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjmJn7hMm2pK8MstM1AvgkEyCVMH5FsXNj97eKYfoEqYluXK4WFcaQmI&s=10",Doremon
-http://starshare.live:8080/live/3569087360/6542246996/147746.ts
-
 #EXTINF:-1 group-title=""tvg-logo="https://freepngimg.com/download/the_jungle_book/29958-7-the-jungle-book.png",Jungle
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-
-#EXTINF:-1 group-title=""tvg-logo="https://i.ibb.co/74FrP8C/images-14.jpg",MINIMAX
-https://livetranscode.com/Minimax/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV
 https://jmp2.uk/sam-USBA3000158L.m3u8

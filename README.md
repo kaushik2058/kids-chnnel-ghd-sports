@@ -16,7 +16,7 @@ http://extraott.com/live/3586573392/7591141273/187052.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Bangla 
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Hindi 
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/K4SM5gVz/c26e3f010eb7043ee9e082be2509838a.png",Sonic Hindi 
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
 
 #EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo 
@@ -202,5 +202,5 @@ https://jmp2.uk/sam-USBD3300012VX.m3u8
 #EXTINF:-1 channel-id="samsung-CA800001ZX" tvg-id="CA800001ZX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250121T094909SQUARE.png" group-title="" tvg-chno="3724",BBC Kids
 https://jmp2.uk/sam-CA800001ZX.m3u8
 
-#EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="Kids" tvg-chno="3724",BBC Kids
+#EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="" tvg-chno="3724",BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
